@@ -14,7 +14,7 @@ module.exports = {
         'lord-vishnu': "url('../src/images/lord-vishnu.png')",
         'student-bg-o': "url('../src/images/student-bg-opaque.png')",
         'wide-student-bg': "url('../src/images/wide-student-bg.jpg')",
-        'staff-bg': "url('../src/images/wide-staff.jpg')",
+        'wide-staff': "url('../src/images/wide-staff.jpg')",
       },
       colors: {
         'custom-orange' : '#ffa900', 

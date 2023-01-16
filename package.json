@@ -1,7 +1,7 @@
 {
   "name": "main",
   "version": "0.1.0",
-  "homepage": "https://VishnuBoys.github.io/home",
+  "homepage": "https://Vishnuboys.github.io/home/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.4",

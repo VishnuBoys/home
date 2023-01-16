@@ -1,4 +1,4 @@
-  import logo from "../images/true-logo.jpg"
+
   import History from "../components/History"
 
   export default function About ()  {

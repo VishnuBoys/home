@@ -1,4 +1,4 @@
-import {Disclosure} from '@headlessui/react'
+
 
 export default function FAQ() {
 
@@ -21,7 +21,6 @@ export default function FAQ() {
                       </div>
                     </div>
                   </div>
-                  
                   
               </div>
               <div class="w-full p-1">

@@ -1,3 +1,4 @@
+import React from 'react'
 import { LazyLoadImage } from "react-lazy-load-image-component"
 import Marquee from "react-fast-marquee"
 
@@ -11,7 +12,7 @@ export default function Hero() {
   return (
 
     <div>
-      <Marquee gradientWidth='0' gradient="false" speed="100" className="bg-amber-400 text-white font-medium">End of Term Exams in Progress!</Marquee>
+     {/* <Marquee gradientWidth='0' gradient="false" speed="100" className="bg-amber-400 text-white font-medium">End of Term Exams in Progress!</Marquee> */}
     <div className="bg-student-bg-o bg-cover bg-no-repeat">
       <main>
         <div className="relative px-6 lg:px-8">

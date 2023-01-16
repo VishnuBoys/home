@@ -1,3 +1,5 @@
+
+
 export default function Footer2() {
     return (
         <section class="bg-grey-100">

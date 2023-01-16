@@ -1,3 +1,4 @@
+import React from 'react'
 import {
   Routes,
   Route
@@ -11,6 +12,9 @@ import Footer from "./components/Footer"
 import FAQ from "./pages/FAQ"
 import About from "./pages/About"
 import Curriculum from "./pages/Curriculum"
+
+
+
 
 
 

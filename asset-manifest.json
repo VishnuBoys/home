@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/main/static/css/main.e94fccff.css",
-    "main.js": "/main/static/js/main.d75b4d1b.js",
-    "static/media/student-bg-opaque.png": "/main/static/media/student-bg-opaque.152485a169edc3fecc47.png",
-    "static/media/true-logo.jpg": "/main/static/media/true-logo.400642c84fc562d8f497.jpg",
-    "static/media/class-bg.jpg": "/main/static/media/class-bg.179494025155ac974115.jpg",
-    "static/media/puja.jpg": "/main/static/media/puja.f24d0e9dacda0e168c48.jpg",
-    "static/media/test.pdf": "/main/static/media/test.ac0398d4ca249e568588.pdf",
-    "index.html": "/main/index.html",
-    "main.e94fccff.css.map": "/main/static/css/main.e94fccff.css.map",
-    "main.d75b4d1b.js.map": "/main/static/js/main.d75b4d1b.js.map"
+    "main.css": "/home/static/css/main.6891ee15.css",
+    "main.js": "/home/static/js/main.dcee65f4.js",
+    "static/media/student-bg-opaque.png": "/home/static/media/student-bg-opaque.152485a169edc3fecc47.png",
+    "static/media/true-logo.jpg": "/home/static/media/true-logo.400642c84fc562d8f497.jpg",
+    "static/media/class-bg.jpg": "/home/static/media/class-bg.179494025155ac974115.jpg",
+    "static/media/puja.jpg": "/home/static/media/puja.f24d0e9dacda0e168c48.jpg",
+    "static/media/test.pdf": "/home/static/media/test.ac0398d4ca249e568588.pdf",
+    "index.html": "/home/index.html",
+    "main.6891ee15.css.map": "/home/static/css/main.6891ee15.css.map",
+    "main.dcee65f4.js.map": "/home/static/js/main.dcee65f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.e94fccff.css",
-    "static/js/main.d75b4d1b.js"
+    "static/css/main.6891ee15.css",
+    "static/js/main.dcee65f4.js"
   ]
 }

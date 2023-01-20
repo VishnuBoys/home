@@ -28,39 +28,172 @@ export default function MyDropdown() {
 
             </div>
 
-            <div class="flex flex-wrap overflow-hidden sm:-mx-px">
 
-<div class="w-1/3 overflow-hidden sm:my-px sm:px-px">
-  Hi
-</div>
 
-<div class="w-1/3 overflow-hidden sm:my-px sm:px-px">
-  Hi
-</div>
-
-<div class="w-1/3 overflow-hidden sm:my-px sm:px-px">
-  Hi
-</div>
-
-<div class="w-1/3 overflow-hidden sm:my-px sm:px-px">
-  Hi
-</div>
-
-<div class="w-1/3 overflow-hidden sm:my-px sm:px-px">
-  Hi
-</div>
-
-<div class="w-1/3 overflow-hidden sm:my-px sm:px-px">
-  Hi
-</div>
-
-</div>
     </div>
 </section>
 
 
 
+{/* <div className="overflow-x-auto">
+  <table className="table table-compact w-full">
+   
+    <thead>
+      <tr className="hover">
+        <th></th>
+        <th className="text-amber-500 text-xl">Form Class</th>
+        <th className="text-amber-500 text-xl">Subjects</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+      <tr className="hover">
+        <th></th>
+        <td className="font-bold">Form 1</td>
+        <td className="text-xl">
+          Maths<br/>
+          English<br/>
+          Science<br/>
+          Social Studies<br/>
+          P.E<br/>
+
+        </td>
+  
+      </tr>
+    
+      <tr className="hover">
+        <th></th>
+        <td className="font-bold">Form 2</td>
+        <td className="text-xl">Maths<br/>
+          English<br/>
+          Science<br/>
+          Social Studies<br/>
+          P.E<br/></td>
+        
+      </tr>
+      
+      <tr className="hover">
+        <th></th>
+        <td className="font-bold">Form 3</td>
+        <td className="text-xl">Maths<br/>
+          English<br/>
+          Science<br/>
+          Social Studies<br/>
+          P.E<br/></td>
+
+      </tr>
+    </tbody>
+  </table>
+</div> */}
+
+<div class="flex justify-center bg-gray-100 py-10 p-5">
+  <div class="container mr-5 ml-2 mx-auto bg-white shadow-xl">
+    <div class="w-11/12 mx-auto">
+      <div class="bg-white my-6">
+        <table class="text-left w-full border-collapse"> 
+          <thead>
+            <tr>
+              <th class="py-4 px-6 bg-amber-400 font-bold uppercase text-sm text-white border-b border-grey-light font-medium">Lower Forms (1-3)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="hover:bg-grey-lighter">
+              <td class="py-4 px-6 border-b border-grey-light font-medium">Maths</td>
+            </tr>
+            <tr class="hover:bg-grey-lighter">
+              <td class="py-4 px-6 border-b border-grey-light font-medium">English A & B</td>
+            </tr>
+            <tr class="hover:bg-grey-lighter">
+              <td class="py-4 px-6 border-b border-grey-light font-medium">Integrated Science</td>
+            </tr>
+            <tr class="hover:bg-grey-lighter">
+              <td class="py-4 px-6 border-b border-grey-light font-medium">Social Studies</td>
+            </tr>
+            <tr class="hover:bg-grey-lighter">
+              <td class="py-4 px-6 border-b border-grey-light font-medium">Physical Education</td>
+            </tr>
+            <tr class="hover:bg-grey-lighter">
+              <td class="py-4 px-6 border-b border-grey-light font-medium">Visual Arts</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      </div>
+        </div>
+
+    <div class="container mr-5 mx-auto bg-white shadow-xl">
+      <div class="w-11/12 mx-auto">
+        <div class="bg-white my-6">
+          <table class="text-left w-full border-collapse"> 
+            <thead>
+              <tr>
+                <th class="py-4 px-6 bg-amber-400 font-bold uppercase text-sm text-white border-b border-grey-light font-medium">CSEC</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="hover:bg-grey-lighter">
+                <td class="py-4 px-6 border-b border-grey-light font-medium">Mathematics</td>
+              </tr>
+              <tr class="hover:bg-grey-lighter">
+                <td class="py-4 px-6 border-b border-grey-light font-medium">English A & B</td>
+              </tr>
+              <tr class="hover:bg-grey-lighter">
+                <td class="py-4 px-6 border-b border-grey-light font-medium">Economics</td>
+              </tr>
+              <tr class="hover:bg-grey-lighter">
+                <td class="py-4 px-6 border-b border-grey-light font-medium">Principles of Business & Principles of Accounts</td>
+              </tr>
+              <tr class="hover:bg-grey-lighter">
+                <td class="py-4 px-6 border-b border-grey-light font-medium">Geography</td>
+              </tr>
+              <tr class="hover:bg-grey-lighter">
+                <td class="py-4 px-6 border-b border-grey-light font-medium">Additional Mathematics</td>
+              </tr>
+              <tr class="hover:bg-grey-lighter">
+                <td class="py-4 px-6 border-b border-grey-light font-medium">Chemistry</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        </div>
+          </div>
+    
+      <div class="container mx-auto bg-white shadow-xl">
+        <div class="w-11/12 mx-auto">
+          <div class="bg-white my-6">
+            <table class="text-left w-full border-collapse"> 
+              <thead>
+                <tr>
+                  <th class="py-4 px-6 bg-amber-400 font-bold uppercase text-sm text-white border-b border-grey-light font-medium">CAPE</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="hover:bg-grey-lighter">
+                  <td class="py-4 px-6 border-b border-grey-light font-medium">Chemistry</td>
+
+                </tr>
+                <tr class="hover:bg-grey-lighter">
+                  <td class="py-4 px-6 border-b border-grey-light font-medium">Pure Mathematics</td>
+                </tr>
+                <tr class="hover:bg-grey-lighter">
+                  <td class="py-4 px-6 border-b border-grey-light font-medium">Geography</td>
+                </tr>
+                <tr class="hover:bg-grey-lighter">
+                  <td class="py-4 px-6 border-b border-grey-light font-medium">Economics</td>
+                </tr>
+                <tr class="hover:bg-grey-lighter">
+                  <td class="py-4 px-6 border-b border-grey-light font-medium">Management of Business</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          </div>
+            </div>
+
+    </div>
 </div>
+
 </div>
+
   )
 }

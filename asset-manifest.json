@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.a31f346b.css",
-    "main.js": "/home/static/js/main.fa801a90.js",
+    "main.css": "/home/static/css/main.9cdf5ea8.css",
+    "main.js": "/home/static/js/main.1eb52a6b.js",
     "static/media/student-bg-opaque.png": "/home/static/media/student-bg-opaque.152485a169edc3fecc47.png",
     "static/media/true-logo.jpg": "/home/static/media/true-logo.400642c84fc562d8f497.jpg",
     "static/media/class-bg.jpg": "/home/static/media/class-bg.179494025155ac974115.jpg",
     "static/media/puja.jpg": "/home/static/media/puja.f24d0e9dacda0e168c48.jpg",
     "static/media/subjects.pdf": "/home/static/media/subjects.dea9c39b92ffdaf04b00.pdf",
     "index.html": "/home/index.html",
-    "main.a31f346b.css.map": "/home/static/css/main.a31f346b.css.map",
-    "main.fa801a90.js.map": "/home/static/js/main.fa801a90.js.map"
+    "main.9cdf5ea8.css.map": "/home/static/css/main.9cdf5ea8.css.map",
+    "main.1eb52a6b.js.map": "/home/static/js/main.1eb52a6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a31f346b.css",
-    "static/js/main.fa801a90.js"
+    "static/css/main.9cdf5ea8.css",
+    "static/js/main.1eb52a6b.js"
   ]
 }

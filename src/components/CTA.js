@@ -27,7 +27,7 @@ import puja from "../images/puja.jpg"
                 <div>
                     <h3 class="text-yellow-500 text-lg capitalize">Sports Day</h3>
 
-                    <a href="#" class="block mt-2 font-medium text-gray-700 hover:underline hover:text-gray-500 dark:text-gray-400 ">
+                    <a href="#" class="block mt-2 font-medium text-gray-700 hover:underline hover:text-gray-500">
                         See upcoming sports day for 2023.
                     </a>
                 </div>

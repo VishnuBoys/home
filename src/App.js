@@ -12,6 +12,7 @@ import Footer from "./components/Footer"
 import FAQ from "./pages/FAQ"
 import About from "./pages/About"
 import Curriculum from "./pages/Curriculum"
+import Alumni from "./pages/Alumni"
 
 
 
@@ -32,6 +33,7 @@ function App() {
         <Route exact path='/about' element={<About />}></Route>
         <Route exact path='/contact' element={< Contact />}></Route>
         <Route exact path='/faq' element={<FAQ/>}></Route>
+        <Route exact path='/alumni' element={<Alumni/>}></Route>
       </Routes>
       <Footer/>   
     </div>      

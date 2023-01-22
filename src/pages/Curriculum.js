@@ -2,8 +2,7 @@
 import { Worker } from '@react-pdf-viewer/core';
 import { Viewer } from '@react-pdf-viewer/core';
 import '@react-pdf-viewer/core/lib/styles/index.css';
-import csec from "../docs/csec.pdf"
-import cape from "../docs/cape.pdf"
+import subjects from "../docs/subjects.pdf"
 export default function MyDropdown() {
   return (
 <div className="">
@@ -76,7 +75,7 @@ export default function MyDropdown() {
           <table class="text-left w-full border-collapse"> 
             <thead>
               <tr>
-                <th class="py-4 px-6 bg-amber-400 font-bold uppercase text-sm text-white border-b border-grey-light font-medium">CSEC</th>
+                <th class="py-4 px-6 bg-amber-400 font-bold uppercase text-sm text-white border-b border-grey-light font-medium">subjects</th>
               </tr>
             </thead>
             <tbody>
@@ -164,8 +163,7 @@ export default function MyDropdown() {
     </div>
 </section>
 <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.1.81/build/pdf.worker.min.js">
-<Viewer fileUrl={csec} />;
-<Viewer fileUrl={cape} />;
+<Viewer fileUrl={subjects} />;
 </Worker>
 </div>
 

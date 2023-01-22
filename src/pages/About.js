@@ -70,7 +70,7 @@
       </div>
       <div className="grid gap-8 row-gap-10 sm:grid-cols-2 lg:grid-cols-4">
         <div>
-          <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-amber-50">
+          <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-amber-100">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
           </div>
           <h6 className="mb-2 font-semibold leading-5">Scholarships</h6>
@@ -82,7 +82,7 @@
               <span className="mr-1">
                 
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -100,7 +100,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -118,7 +118,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -136,7 +136,7 @@
           </ul>
         </div>
         <div>
-          <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-amber-50">
+          <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-amber-100">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 14v3m4-3v3m4-3v3M3 21h18M3 10h18M3 7l9-4 9 4M4 10h16v11H4V10z"></path></svg>
           </div>
           <h6 className="mb-2 font-semibold leading-5">Staff Accomplishments</h6>
@@ -148,7 +148,7 @@
               <span className="mr-1">
                 
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -166,7 +166,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -184,7 +184,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -202,9 +202,9 @@
           </ul>
         </div>
         <div>
-          <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-amber-50">
+          <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-amber-100">
             <svg
-              className="w-7 h-7 text-deep-purple-accent-400"
+              className="w-7 h-7"
               strokeLinecap="round"
               strokeWidth="2"
               viewBox="0 0 24 24"
@@ -243,7 +243,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -261,7 +261,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -279,7 +279,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -297,9 +297,9 @@
           </ul>
         </div>
         <div>
-          <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-amber-50">
+          <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-amber-100">
             <svg
-              className="w-7 h-7 text-deep-purple-accent-400"
+              className="w-7 h-7"
               strokeLinecap="round"
               strokeWidth="2"
               viewBox="0 0 24 24"
@@ -331,7 +331,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -349,7 +349,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >
@@ -367,7 +367,7 @@
             <li className="flex items-start">
               <span className="mr-1">
                 <svg
-                  className="w-5 h-5 mt-px text-deep-purple-accent-400"
+                  className="w-5 h-5 mt-px"
                   stroke="currentColor"
                   viewBox="0 0 52 52"
                 >

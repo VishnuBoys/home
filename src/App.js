@@ -13,6 +13,7 @@ import FAQ from "./pages/FAQ"
 import About from "./pages/About"
 import Curriculum from "./pages/Curriculum"
 import Alumni from "./pages/Alumni"
+import News from "./pages/News"
 
 
 
@@ -34,6 +35,7 @@ function App() {
         <Route exact path='/contact' element={< Contact />}></Route>
         <Route exact path='/faq' element={<FAQ/>}></Route>
         <Route exact path='/alumni' element={<Alumni/>}></Route>
+        <Route exact path='/news' element={<News/>}></Route>
       </Routes>
       <Footer/>   
     </div>      

@@ -12,7 +12,7 @@ export default function NavBar() {
     const [navbar, setNavbar] = useState(false);
 
     return (
-        <nav className="w-full bg-amber-500 shadow">
+        <nav className="w-full bg-amber-600 shadow">
             <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
                 <div>
                     <div className="flex items-center justify-between py-3 md:py-5 md:block">
@@ -82,6 +82,9 @@ export default function NavBar() {
                             </li>
                             <li className="text-white font-medium hover:text-amber-200">
                                 <NavLink to="/alumni">Alumni</NavLink>
+                            </li>
+                            <li className="text-white font-medium hover:text-amber-200">
+                                <NavLink to="/news">News</NavLink>
                             </li>
                            
                             

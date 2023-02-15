@@ -63,8 +63,7 @@ export default function News() {
                 aria-label=""
                 className="inline-flex items-center font-semibold transition-colors duration-200 hover:text-amber-800"
               >
-                Learn more
-                <NavLink to="/articles/readaloudday"></NavLink>
+                <NavLink to="/articles/readaloudday">Learn more</NavLink>
               </a>
             </div>
           </div>
@@ -102,8 +101,7 @@ export default function News() {
                 aria-label=""
                 className="inline-flex items-center font-semibold transition-colors duration-200 hover:text-amber-800"
               >
-                Learn more
-                <NavLink to="/articles/tugofwar"></NavLink>
+                <NavLink to="/articles/tugofwar">Learn more</NavLink>
               </a>
             </div>
           </div>

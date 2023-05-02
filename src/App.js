@@ -14,6 +14,7 @@ import Staff from "./pages/Staff";
 import Curriculum from "./pages/Curriculum";
 import Alumni from "./pages/Alumni";
 import News from "./pages/News";
+import Registration from "./pages/Registration";
 import TugofWar from "./pages/articles/TugWar";
 import ReadAloudDay from "./pages/articles/ReadAloudDay";
 
@@ -32,6 +33,7 @@ function App() {
           <Route exact path="/faq" element={<FAQ />}></Route>
           <Route exact path="/alumni" element={<Alumni />}></Route>
           <Route exact path="/news" element={<News />}></Route>
+          <Route exact path="/registration" element={<Registration />}></Route>
           {/* Articles */}
           <Route exact path="/articles/tugofwar" element={<TugofWar />}></Route>
           <Route

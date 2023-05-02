@@ -91,6 +91,9 @@ export default function NavBar() {
               <li className="text-white font-medium hover:text-amber-200">
                 <NavLink to="/news">News</NavLink>
               </li>
+              <li className="text-white font-medium hover:text-amber-200">
+                <NavLink to="/registration">Registration</NavLink>
+              </li>
             </ul>
           </div>
         </div>

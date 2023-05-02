@@ -367,7 +367,14 @@ const Example = () => {
     []
   );
 
-  return <MaterialReactTable manualSorting columns={columns} data={data} />;
+  return (
+    <MaterialReactTable
+      enableStickyHeader
+      manualSorting
+      columns={columns}
+      data={data}
+    />
+  );
 };
 
 export default Example;

@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.dd42d63f.css",
-    "main.js": "/home/static/js/main.745e223b.js",
+    "main.css": "/home/static/css/main.549f46a9.css",
+    "main.js": "/home/static/js/main.d11e9816.js",
     "static/media/student-bg-opaque.png": "/home/static/media/student-bg-opaque.152485a169edc3fecc47.png",
     "static/media/true-logo.jpg": "/home/static/media/true-logo.400642c84fc562d8f497.jpg",
     "static/media/books.jpg": "/home/static/media/books.58e2c280f4345e1dbd8b.jpg",
     "static/media/class-bg.jpg": "/home/static/media/class-bg.179494025155ac974115.jpg",
     "static/media/tug-o-war.jpg": "/home/static/media/tug-o-war.200d3d5c19c48266251b.jpg",
     "static/media/puja.jpg": "/home/static/media/puja.f24d0e9dacda0e168c48.jpg",
+    "static/media/registration.pdf": "/home/static/media/registration.70d8f73b21f372c712b2.pdf",
     "static/media/blue.jpeg": "/home/static/media/blue.f5d7804c24ddfd9887b0.jpeg",
     "static/media/red.jpeg": "/home/static/media/red.b9fe2692e0bab212d904.jpeg",
     "static/media/subjects.pdf": "/home/static/media/subjects.dea9c39b92ffdaf04b00.pdf",
     "index.html": "/home/index.html",
-    "main.dd42d63f.css.map": "/home/static/css/main.dd42d63f.css.map",
-    "main.745e223b.js.map": "/home/static/js/main.745e223b.js.map"
+    "main.549f46a9.css.map": "/home/static/css/main.549f46a9.css.map",
+    "main.d11e9816.js.map": "/home/static/js/main.d11e9816.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd42d63f.css",
-    "static/js/main.745e223b.js"
+    "static/css/main.549f46a9.css",
+    "static/js/main.d11e9816.js"
   ]
 }

@@ -1,4 +1,10 @@
 import puja from "../images/general/puja.jpg";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  NavLink,
+} from "react-router-dom";
 
 export default function Example() {
   return (
@@ -73,10 +79,9 @@ export default function Example() {
           </div>
         </div>
         <div className="text-center">
-          <a
-            href="/news"
-            aria-label=""
+          <NavLink
             className="inline-flex items-center font-semibold underline transition-colors duration-200 pt-20 text-amber-600 hover:text-amber-800"
+            to="/news"
           >
             See all articles
             <svg
@@ -86,7 +91,7 @@ export default function Example() {
             >
               <path d="M9.707,5.293l-5-5A1,1,0,0,0,3.293,1.707L7.586,6,3.293,10.293a1,1,0,1,0,1.414,1.414l5-5A1,1,0,0,0,9.707,5.293Z" />
             </svg>
-          </a>
+          </NavLink>
         </div>
       </div>
     </section>
